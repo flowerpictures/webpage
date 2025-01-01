@@ -57,11 +57,11 @@ footer div p {
     display: flex;
     gap: 20px;
 }
-img {
+/* img {
     width: 200px;
     height: 350px;
     object-fit: cover;
-}
+} */
 /* .main_contents {
     flex: 1;
 } */
