@@ -62,3 +62,10 @@ img {
     height: 350px;
     object-fit: cover;
 }
+.main_contents {
+    flex: 1;
+}
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
