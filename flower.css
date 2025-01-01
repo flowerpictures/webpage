@@ -41,3 +41,6 @@ footer div p {
     text-align: center;
     font-size: 20px;
 }
+.flower {
+    display: flex;
+}
