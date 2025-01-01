@@ -44,3 +44,12 @@ footer div p {
 .flower {
     display: flex;
 }
+.bloom {
+    display: flex;
+}
+.flower_bloom {
+    display: flex;
+}
+.bloom_flower {
+    display: flex;
+}
