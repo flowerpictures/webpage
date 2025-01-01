@@ -43,15 +43,19 @@ footer div p {
 }
 .flower {
     display: flex;
+    gap: 20px;
 }
 .bloom {
     display: flex;
+    gap: 20px;
 }
 .flower_bloom {
     display: flex;
+    gap: 20px;
 }
 .bloom_flower {
     display: flex;
+    gap: 20px;
 }
 img {
     width: 200px;
