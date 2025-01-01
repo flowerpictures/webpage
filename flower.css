@@ -53,3 +53,7 @@ footer div p {
 .bloom_flower {
     display: flex;
 }
+img {
+    width: 200px;
+    height: 350px;
+}
